@@ -1,5 +1,5 @@
 # Senior-back-end-developer
-Make a pull request on our team
+Create a pull request on our team
 
 Developers wanted - Amsterdam - full-time
 
@@ -29,6 +29,6 @@ As a senior back-end developer, you will take the lead in designing and developi
 - Proficient in spoken and written Dutch and/or English
 
 
-Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as making a pull request :-)
+Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as creating a pull request :-)
 
 Direct applications only; No agencies please.
